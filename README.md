@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24.11.2026
+## Reference Number:26007554
+## Name:R.Hariharan
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,46 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+```
+1.Connect farmers directly with food industries and bulk buyers.
+2.Enable buyers to pre-book crops before harvest.
+3.Establish district-level collection and storage centres.
+4.Eliminate middlemen and help farmers maximize profit.
+5.Reduce agricultural wastage and ensure fair pricing.
+
+```
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+```
+Screenshot 2026-11-25 115047.png
 
+```
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+```
+1.Can be developed using existing mobile and web technologies.
+2. Connects farmers and food industries through a direct digital marketplace.
+3.District-level storage centres can be established through partnerships with existing warehouses.
+4.Pre-booking ensures planned supply and demand, making the business model practical and sustainable.
+5.Revenue can be generated through minimal service charges, storage, and logistics services.
+
+
+```
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+```
+1. Increases farmers' profits by reducing middlemen.
+2. Ensures reliable agricultural supply for food-based industries.
+3. Reduces crop wastage through proper storage and planned distribution.
+4. Helps farmers plan cultivation based on market demand.
+5. Promotes transparency, sustainable agriculture, and rural economic development.
 
+
+
+```
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+```
+1. Google
+2. ChatGPT
+3. https://medium.com/@mishra.poonam958/why-indian-farmers-are-earning-less-the-many-challenges-and-how-technology-can-help-1e610578cc2c
+4. https://www.quora.com/Why-do-the-farmers-in-India-still-have-low-income
+```
