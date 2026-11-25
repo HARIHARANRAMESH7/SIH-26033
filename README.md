@@ -36,11 +36,11 @@ Benefits:
 ```
 
 ## Technical Approach
-```
-Screenshot 2026-11-25 115047.png
+
+![alt text](<Screenshot 2026-11-25 115047-1.png>)
 
 
-```
+
 ## Feasibility and Viability
 ```
 1.Can be developed using existing mobile and web technologies.
